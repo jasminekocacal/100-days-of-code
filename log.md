@@ -31,3 +31,11 @@
 **Thoughts:** I almost didn't want to do the work today, but I'm glad I powered through. Again, it was pretty touch and go because of what I forgot, but I'm feel pretty accomplished after getting some real functionality done. 
 
 **Link to work:** N/A
+
+### Day 4: November 19, 2021
+
+**Today's Progress:** I managed to properly connect to postgres because it turned out I had some authentication issues. 
+
+**Thoughts:** I felt pretty frustrated today because I had to keep looking for a fix for my issue. The solution was to essentially turn off authentication which I didn't like, so I looked for other fixes and didn't get anything successful. A bit of an annoying day since it was all debugging and research. 
+
+**Link to work:** N/A
