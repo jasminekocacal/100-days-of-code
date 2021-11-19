@@ -23,3 +23,11 @@
 **Thoughts:** I feel a little silly because I forgot that maven does most of the work for you. It was a little frustrating to look for info and find conflicting information. I hope to get more actual coding done next time. 
 
 **Link to work:** N/A
+
+### Day 3: November 18, 2021
+
+**Today's Progress:** I managed to create a check for duplicates system for usernames and I finally got jdbc up and running. 
+
+**Thoughts:** I almost didn't want to do the work today, but I'm glad I powered through. Again, it was pretty touch and go because of what I forgot, but I'm feel pretty accomplished after getting some real functionality done. 
+
+**Link to work:** N/A
